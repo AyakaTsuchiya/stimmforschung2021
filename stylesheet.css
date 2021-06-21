@@ -1,0 +1,5 @@
+.resizeimage {
+   max-width: 800px; 
+   min-width: 240px; 
+}
+.resizeimage img { width: 100%; }
